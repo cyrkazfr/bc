@@ -3,7 +3,7 @@ title: Interfaces Et Cables
 author: KAZMIERCZAK, Cyril
 ---
 
-### Presentation
+## Presentation
 Les interfaces et les cables constituent la couche physique d'un reseau informatique.
 Ils assurent le transport des signaux (electriques, lumineux ou radio) et definissent la connectique permettant de relier physiquement les equipements (routeurs ou commutateurs) aux postes clients et aux serveurs.
 
