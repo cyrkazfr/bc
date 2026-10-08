@@ -50,8 +50,8 @@ Chaque standard suit une logique d'appelation stricte divisee en trois parties:
 - **Le suffixe (Media/Distance)**: `-T` pour les paires torsadees en cuivre (_Twisted pair_), `-SR/-LR` pour la fibre optique a courte ou longue distance.
 
 #### Principaux standards Ethernet (Cuivre & Fibre)
----
 | **Norme IEEE** | **Nom Standard** | **Debit Maximal** | **Type de support (Media)** | **Portee Max** |
+| :--- | :---: | :---: | :---: | ---: |
 | **802.3i** | **Ethernet (10BASE-T)** | 10 Mb/s | Cuivre (Paires torsadees Cat 3) | 100m |
 | **802.3u** | **Fast Ethernet (100BASE-TX)** | 100 Mb/s | Cuivre (Cat 5 ou superieur) | 100m |
 | **802.3ab** | **Gigabit Ethernet (1000BASE-T)** | 1 Gb/s | Cuivre (Cat 5e,6) | 100m |
