@@ -51,23 +51,21 @@ Chaque standard suit une logique d'appelation stricte divisee en trois parties:
 
 #### Principaux standards Ethernet (Cuivre & Fibre)
 | **Norme IEEE** | **Nom Standard** | **Debit Maximal** | **Type de support (Media)** | **Portee Max** |
-| :--- | :---: | :---: | :---: | ---: |
+| :--- | :--- | :--- | :--- | :--- |
 | **802.3i** | **Ethernet (10BASE-T)** | 10 Mb/s | Cuivre (Paires torsadees Cat 3) | 100m |
 | **802.3u** | **Fast Ethernet (100BASE-TX)** | 100 Mb/s | Cuivre (Cat 5 ou superieur) | 100m |
 | **802.3ab** | **Gigabit Ethernet (1000BASE-T)** | 1 Gb/s | Cuivre (Cat 5e,6) | 100m |
 | **802.3an** | **10 Gigabit Ethernet (1GBASE-T)** | 10 Gb/s | Cuivre (Cat 6a ou superieur) | 100m |
----
 
 ### Categories de cables Ethernet (RJ45)
 Les performances d'un reseau filaire dependent directement de la categorie (**Cat**) imprimee sur la gaine du cable:
 
----
 | **Categorie** | **Debit Maximal** | **Bande passante** | **Usage recommande** |
+| :--- | :--- | :--- | :--- |
 | **Cat 5** | **1 Gb/s** | 100 MHz | Connexions Internet basiques a la maison |
 | **Cat 6** | **10 Gb/s** (sur max 55m) | 250 MHz | Le **standard actuel** ideal pour le streaming 4K et le gaming |
 | **Cat 6a** | **10 Gb/s** (sur 100m) | 500MHz | Le meilleur choix pour le futur (compatibilite Box fibre de 2 a 8 Gb/s) |
 | **Cat 8** | **40 Gb/s** (sur max 30m) | 2000 MHz | Reserve aux serveurs et centres de donnees |
----
 
 ### Types de blindage
 Pour eviter les parasites electriques causes par les autres cables ou appareils menagers, l'Ethernet utilise differents types de protection:
